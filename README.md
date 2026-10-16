@@ -4,5 +4,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
-| [0009-palindrome-number](https://github.com/navneetkashyap1101/LeetCode/tree/master/0009-palindrome-number) |
+
 <!---LeetCode Topics End-->
