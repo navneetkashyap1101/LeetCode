@@ -4,5 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
-
+## Array
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/navneetkashyap1101/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/navneetkashyap1101/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
